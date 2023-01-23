@@ -14,7 +14,6 @@ The exam includes 3 tasks to be done. Please, choose 3 of 5: [Calculator](/tasks
 * Author name : Miguel Jose Martinez Martin
 * Pipeline status: [![Java CI with Maven](https://github.com/MiguelJMartinez/javaschoolexam/actions/workflows/maven.yml/badge.svg)](https://github.com/MiguelJMartinez/javaschoolexam/actions/workflows/maven.yml)
 
-
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
 * [Fork](https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html) the repository 
