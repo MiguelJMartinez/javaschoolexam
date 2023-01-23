@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done. Please, choose 3 of 5: [Calculator](/tasks
 ### Result ###
 
 * Author name : Miguel Jose Martinez Martin
-* Pipeline status: {PUT A BADGE HERE}
+* Pipeline status: [![Java CI with Maven](https://github.com/MiguelJMartinez/javaschoolexam/actions/workflows/maven.yml/badge.svg)](https://github.com/MiguelJMartinez/javaschoolexam/actions/workflows/maven.yml)
 
 
 ### How to start?  ###
